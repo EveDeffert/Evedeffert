@@ -1,7 +1,7 @@
 ### Olá 👋 Eu sou a Evelin Deffert Brem  😁
 
 - 🔭 Atualmente estou trabalhando com Fotografia.
-- 🌱 I’m currently learning  Back-end.
+- 🌱 I’m currently learning Back-end.
 
 <div align="center">
   <a href="https://github.com/Evedeffert">
